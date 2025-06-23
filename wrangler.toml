@@ -1,8 +1,8 @@
 name = "forgithub_starcount"
-main = "main.ts"
+main = "main.js"
 compatibility_date = "2025-04-29"
 dev.port = 3000
 
 routes = [
-  { pattern = "starcont.forgithub.com", custom_domain = true }
+  { pattern = "starcount.forgithub.com", custom_domain = true }
 ]
